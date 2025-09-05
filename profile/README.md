@@ -19,7 +19,7 @@
 With ACDSee Photo Studio, users can efficiently manage large photo libraries, categorize images with lightning-fast tagging and facial recognition, and perform intricate edits with precision tools. It supports a vast array of RAW file formats from virtually every camera manufacturer, ensuring professional-grade development of your photos straight from the camera. Its layered editing platform, combined with AI-powered features and performance optimization, makes it an indispensable tool for anyone serious about photography, from organizing vast collections to creating stunning artistic compositions.
 
 <p align="center">
-  <img src="https://photowebexpo.ru/assets/uploads/images/BIRZHAKOV/NEWS/acdsee-photo-studio-ultimate-2021_01.jpg" alt="ACDSee Photo Studio Interface"/>
+  <img src="https://amateurphotographer.com/wp-content/uploads/sites/7/2025/02/ACDSee-2025-Ultimate-17.jpg" alt="ACDSee Photo Studio Interface"/>
 </p>
 
 ---
